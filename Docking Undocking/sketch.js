@@ -1,5 +1,4 @@
-    var bg,sleep, brush, gym, eat, bath, move;
-    var astronaut;
+    var bg, sleep, brush, gym, eat, bath, move, astronaut;
 
     function preload(){
       bg= loadImage("images/iss.png");
